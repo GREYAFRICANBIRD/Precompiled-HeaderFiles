@@ -2,5 +2,6 @@
 - Run: ctrl + b
 
 > Make file *.gch
-- Command prompt: g++ *.h
-
+- Open Command prompt 
+- Type: cd C:\MinGW\lib\gcc\mingw32\6.3.0\include\c++
+- Type: g++ *.h
